@@ -14,6 +14,21 @@
 
 <h3 align="left">Lenguajes y Herramientas:</h3>
 <p align="left">
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
+  <a href="https://www.microsoft.com/windows/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  </a>
   <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a>
@@ -39,4 +54,18 @@
 
 <hr/>
 
+<h3 align="left">Competencias:</h3>
+<ul>
+  <li>Desarrollo de innovación.</li>
+  <li>Liderazgo.</li>
+  <li>Habilidades comunicativas.</li>
+  <li>Trabajo en equipo.</li>
+  <li>Pensamiento crítico.</li>
+  <li>Resolución de problemas.</li>
+  <li>Adaptabilidad.</li>
+</ul>
+
+<hr/>
+
 <p style="text-align:center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=barearojo&show_icons=true&locale=en&layout=compact" alt="Juan Barea Rojo - Estadísticas" /></p>
+
