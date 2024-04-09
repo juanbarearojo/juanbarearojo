@@ -50,6 +50,9 @@
   <a href="https://www.w3schools.com/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   </a>
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.svg" alt="PyTorch" width="40" height="40"/>
+  </a>
 </p>
 
 <hr/>
@@ -67,5 +70,6 @@
 
 <hr/>
 
-<p style="text-align:center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=barearojo&show_icons=true&locale=en&layout=compact" alt="Juan Barea Rojo - Estadísticas" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=barearojo&show_icons=true&locale=en&layout=compact" alt="Juan Barea Rojo - Estadísticas" /></p>
+
 
