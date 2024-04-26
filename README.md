@@ -17,6 +17,9 @@
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="40" height="40"/>
+  </a>
   <a href="https://scikit-learn.org/stable/index.html" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikitlearn" width="40" height="40"/>
   </a>
@@ -77,5 +80,6 @@
 <hr/>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=barearojo&show_icons=true&locale=en&layout=compact" alt="Juan Barea Rojo - Estadísticas" height="250" /></p>
+
 
 
