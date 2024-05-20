@@ -21,7 +21,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="40" height="40"/>
   </a>
   <a href="https://scikit-learn.org/stable/index.html" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikitlearn" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="40" height="40"/>
   </a>
   <a href="https://pytorch.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.svg" alt="PyTorch" width="40" height="40"/>
@@ -85,6 +85,5 @@
 
 <hr/>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=barearojo&show_icons=true&locale=en&layout=compact" alt="Juan Barea Rojo - Estadísticas"
-
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=barearojo&show_icons=true&locale=en&layout=compact" alt="Juan Barea Rojo - Estadísticas" /></p>
 
