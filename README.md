@@ -10,6 +10,9 @@
   <a href="https://www.linkedin.com/in/juan-barea-rojo" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Juan Barea Rojo - LinkedIn" height="30" width="40" />
   </a>
+  <a href="https://huggingface.co/Barearojojuan" target="_blank">
+    <img align="center" src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Juan Barea Rojo - Hugging Face" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Lenguajes:</h3>
