@@ -1,101 +1,72 @@
-<h1 align="center">¡Hola! Soy Juan Barea Rojo</h1>
-<h3 align="center">Estudiante de ingeniería informática en la Universidad de Granada, apasionado por la Inteligencia Artificial y el análisis de datos.</h3>
+<h1 align="center">Hi there! I'm Juan Barea Rojo</h1>
+<h3 align="center">Computer Engineer and Researcher in Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Data Analysis</h3>
 
-- 💻 Estudiar en el campo de la Inteligencia Artificial, Ingeniería y Análisis de Datos ha sido un viaje multidisciplinario y emocionante que ha ampliado mi horizonte profesional. Desde el desarrollo de algoritmos de aprendizaje automático hasta la investigación en aplicaciones de IA, cada proyecto en el que he participado ha enriquecido mi comprensión de estos campos interrelacionados. Mi enfoque diversificado me ha dotado de una mentalidad analítica y resolutiva, permitiéndome abordar desafíos complejos desde diversas perspectivas. Estoy entusiasmado por seguir explorando nuevas tecnologías y aplicaciones en este emocionante y cambiante panorama tecnológico, con el objetivo de contribuir al avance y la innovación en la era digital.
+💻 I focus on **AI interpretability, retrieval architectures, and bias auditing in language models**.  
+My current work explores **multi-agent and bio-inspired RAG systems**, aiming to improve reasoning stability, explainability, and reproducibility in LLM-based decision pipelines.  
+I’m passionate about bridging **retrieval, reasoning, and statistical rigor** to create transparent and verifiable AI systems.
 
-<hr/>
+---
 
-<h3 align="left">Conéctate conmigo:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/juan-barea-rojo" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Juan Barea Rojo - LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://huggingface.co/Barearojojuan" target="_blank">
-    <img align="center" src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Juan Barea Rojo - Hugging Face" height="30" width="40" />
-  </a>
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-barea-rojo/)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Barearojojuan)
+
+---
+
+# 💻 Tech Stack
+
+### 🧠 Languages
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+### 🤖 Core AI & Data Tools
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
+![FAISS](https://img.shields.io/badge/FAISS-006699.svg?style=for-the-badge&logo=facebook&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-2E77BC.svg?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C1C1C.svg?style=for-the-badge&logo=graphite&logoColor=white)
+
+---
+
+### 📊 Experimentation & Analysis
+![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6.svg?style=for-the-badge&logo=scipy&logoColor=white)
+
+---
+
+### 🧩 Infrastructure & Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+## 🧩 Core Research Competencies
+- Large Language Model Evaluation and Bias Auditing  
+- Retrieval-Augmented Generation (RAG) and Multi-Agent Systems  
+- Transparent and Explainable AI  
+- Statistical Evaluation (EM, F1, nDCG, Cramér’s V)  
+- Open-Source Experimentation and Reproducibility  
+- Research Writing and Data Visualization  
+- Cross-disciplinary Collaboration & Technical Leadership  
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juanbarearojo&show_icons=true&locale=en&layout=compact" alt="Juan Barea Rojo - Statistics" />
 </p>
-
-<h3 align="left">Lenguajes:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://go.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-</p>
-
-<h3 align="left">Herramientas:</h3>
-<p align="left">
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/stable/index.html" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.svg" alt="PyTorch" width="40" height="40"/>
-  </a>
-  <a href="https://huggingface.co/" target="_blank">
-    <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="40" height="40"/>
-  </a>
-  <a href="https://jupyter.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/>
-  </a>
-  <a href="https://www.anaconda.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original-wordmark.svg" alt="Anaconda" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/windows/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/sql-server" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL" width="40" height="40"/>
-  </a>
-</p>
-
-<hr/>
-
-<h3 align="left">Competencias:</h3>
-<ul>
-  <li>Desarrollo de innovación.</li>
-  <li>Liderazgo.</li>
-  <li>Habilidades comunicativas.</li>
-  <li>Trabajo en equipo.</li>
-  <li>Pensamiento crítico.</li>
-  <li>Resolución de problemas.</li>
-  <li>Adaptabilidad.</li>
-</ul>
-
-<hr/>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=juanbarearojo&show_icons=true&locale=en&layout=compact" alt="Juan Barea Rojo - Estadísticas" /></p>
